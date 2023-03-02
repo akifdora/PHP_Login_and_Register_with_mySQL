@@ -2,4 +2,6 @@
 I made a login and registration system using MySQL connection with PHP in this repository
 
 ## Screenshots
-![Alt text](/screenshots/Screenshot_1.jpg "Optional title")
+![](/screenshots/Screenshot_1.jpg)
+![](/screenshots/Screenshot_2.jpg)
+![](/screenshots/Screenshot_3.jpg)
